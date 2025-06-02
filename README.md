@@ -21,4 +21,4 @@ A beautiful, responsive chatbot interface powered by Google Gemini AI with real-
 - **Styling**: Tailwind CSS with custom animations
 - **Build Tool**: Vite
 
-Demo: https://gemini-chatbot-1ejloavng-anshumanjaiswals-projects.vercel.app/
+Demo: https://gemini-chatbot-delta-rust.vercel.app/
